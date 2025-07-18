@@ -23,7 +23,7 @@ msgstr "Inicio"
 
 #: src/routes/index.tsx:33
 msgid "Learn React"
-msgstr "Aprende React"
+msgstr ""
 
 #: src/routes/index.tsx:41
 msgid "Learn TanStack"

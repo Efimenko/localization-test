@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages=JSON.parse("{\"866v+d\":[\"Edit <0>src/routes/index.tsx</0> and save to reload.\"],\"i0qMbr\":[\"Home\"],\"uVmnKK\":[\"Learn React\"],\"aSYJCK\":[\"Learn TanStack\"],\"z/ulfL\":[\"logo\"]}");

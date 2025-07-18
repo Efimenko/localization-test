@@ -9,13 +9,13 @@ import { resolve } from 'node:path'
 export default defineConfig({
   plugins: [
     TanStackRouterVite({ autoCodeSplitting: true }),
-    viteReact(),
+    viteReact({
+      babel: {
+        plugins: ['macros']
+      }
+    }),
     tailwindcss(),
   ],
-  test: {
-    globals: true,
-    environment: 'jsdom',
-  },
   resolve: {
     alias: {
       '@': resolve(__dirname, './src'),

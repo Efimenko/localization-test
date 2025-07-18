@@ -1,12 +1,24 @@
 import { StrictMode } from 'react'
 import ReactDOM from 'react-dom/client'
 import { RouterProvider, createRouter } from '@tanstack/react-router'
+import { I18nProvider } from '@lingui/react'
+import { i18n } from '@lingui/core'
+import { messages as enMessages } from './locales/en/messages.mjs'
+import { messages as esMessages } from './locales/es/messages.mjs'
+import { LocaleProvider } from './contexts/LocaleContext'
 
 // Import the generated route tree
 import { routeTree } from './routeTree.gen'
 
 import './styles.css'
 import reportWebVitals from './reportWebVitals.ts'
+
+// Load messages and activate locale
+i18n.load({
+  en: enMessages,
+  es: esMessages,
+})
+i18n.activate('en')
 
 // Create a new router instance
 const router = createRouter({
@@ -31,7 +43,11 @@ if (rootElement && !rootElement.innerHTML) {
   const root = ReactDOM.createRoot(rootElement)
   root.render(
     <StrictMode>
-      <RouterProvider router={router} />
+      <LocaleProvider>
+        <I18nProvider i18n={i18n}>
+          <RouterProvider router={router} />
+        </I18nProvider>
+      </LocaleProvider>
     </StrictMode>,
   )
 }

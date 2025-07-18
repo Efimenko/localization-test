@@ -34,6 +34,14 @@ function App() {
 				</a>
 				<a
 					className="text-[#61dafb] hover:underline"
+					href="https://reactjs.org"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
+					<Trans context="another-context">Learn React</Trans>
+				</a>
+				<a
+					className="text-[#61dafb] hover:underline"
 					href="https://tanstack.com"
 					target="_blank"
 					rel="noopener noreferrer"

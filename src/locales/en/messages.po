@@ -21,11 +21,16 @@ msgstr "Edit <0>src/routes/index.tsx</0> and save to reload."
 msgid "Home"
 msgstr "Home"
 
+#: src/routes/index.tsx:41
+msgctxt "another-context"
+msgid "Learn React"
+msgstr "Learn React"
+
 #: src/routes/index.tsx:33
 msgid "Learn React"
 msgstr "Learn React"
 
-#: src/routes/index.tsx:41
+#: src/routes/index.tsx:49
 msgid "Learn TanStack"
 msgstr "Learn TanStack"
 

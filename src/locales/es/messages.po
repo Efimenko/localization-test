@@ -8,7 +8,7 @@ msgstr ""
 "Language: es\n"
 "Project-Id-Version: test-project-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-18 12:02\n"
+"PO-Revision-Date: 2025-07-18 12:41\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -26,11 +26,16 @@ msgstr "Edita <0>src/routes/index.tsx</0> y guarda para recargar."
 msgid "Home"
 msgstr "Inicio"
 
+#: src/routes/index.tsx:41
+msgctxt "another-context"
+msgid "Learn React"
+msgstr ""
+
 #: src/routes/index.tsx:33
 msgid "Learn React"
 msgstr "Aprende React"
 
-#: src/routes/index.tsx:41
+#: src/routes/index.tsx:49
 msgid "Learn TanStack"
 msgstr "Aprende TanStack"
 

@@ -27,6 +27,9 @@ function App() {
 				<p>
 					<Trans>Another paragraph with some text.</Trans>
 				</p>
+				<p>
+					<Trans>One more paragraph with some text.</Trans>
+				</p>
 				<a
 					className="text-[#61dafb] hover:underline"
 					href="https://reactjs.org"

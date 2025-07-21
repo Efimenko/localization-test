@@ -14,8 +14,8 @@ msgstr ""
 "Plural-Forms: \n"
 
 #: src/routes/index.tsx:28
-msgid "Another paragraph with some text."
-msgstr "Another paragraph with some text."
+#~ msgid "Another paragraph with some text."
+#~ msgstr "Another paragraph with some text."
 
 #: src/routes/index.tsx:23
 msgid "Edit <0>src/routes/index.tsx</0> and save to reload."
@@ -25,7 +25,7 @@ msgstr "Edit <0>src/routes/index.tsx</0> and save to reload."
 msgid "Home"
 msgstr "Home"
 
-#: src/routes/index.tsx:39
+#: src/routes/index.tsx:36
 msgid "Learn React"
 msgstr "Learn React"
 
@@ -34,7 +34,7 @@ msgstr "Learn React"
 #~ msgid "Learn React"
 #~ msgstr "Learn React"
 
-#: src/routes/index.tsx:47
+#: src/routes/index.tsx:44
 msgid "Learn TanStack"
 msgstr "Learn TanStack"
 
@@ -42,6 +42,6 @@ msgstr "Learn TanStack"
 msgid "logo"
 msgstr "logo"
 
-#: src/routes/index.tsx:31
+#: src/routes/index.tsx:28
 msgid "One more paragraph with some text."
 msgstr "One more paragraph with some text."

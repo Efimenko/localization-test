@@ -8,7 +8,7 @@ msgstr ""
 "Language: es\n"
 "Project-Id-Version: test-project-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-21 09:44\n"
+"PO-Revision-Date: 2025-07-21 10:22\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -30,7 +30,7 @@ msgstr "Edita <0>src/routes/index.tsx</0> y guarda para recargar."
 msgid "Home"
 msgstr "Inicio"
 
-#: src/routes/index.tsx:36
+#: src/routes/index.tsx:39
 msgid "Learn React"
 msgstr "Aprende React"
 
@@ -39,7 +39,7 @@ msgstr "Aprende React"
 #~ msgid "Learn React"
 #~ msgstr "Learn React"
 
-#: src/routes/index.tsx:44
+#: src/routes/index.tsx:47
 msgid "Learn TanStack"
 msgstr "Aprende TanStack"
 
@@ -50,4 +50,8 @@ msgstr "logotipo"
 #: src/routes/index.tsx:28
 msgid "One more paragraph with some text."
 msgstr "Un párrafo más con un texto."
+
+#: src/routes/index.tsx:31
+msgid "Text that should be translated"
+msgstr ""
 

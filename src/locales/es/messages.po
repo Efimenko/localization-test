@@ -8,7 +8,7 @@ msgstr ""
 "Language: es\n"
 "Project-Id-Version: test-project-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-18 12:50\n"
+"PO-Revision-Date: 2025-07-21 09:35\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -18,6 +18,10 @@ msgstr ""
 "X-Crowdin-File: /main/src/locales/en/messages.po\n"
 "X-Crowdin-File-ID: 15\n"
 
+#: src/routes/index.tsx:28
+msgid "Another paragraph with some text."
+msgstr ""
+
 #: src/routes/index.tsx:23
 msgid "Edit <0>src/routes/index.tsx</0> and save to reload."
 msgstr "Edita <0>src/routes/index.tsx</0> y guarda para recargar."
@@ -26,16 +30,16 @@ msgstr "Edita <0>src/routes/index.tsx</0> y guarda para recargar."
 msgid "Home"
 msgstr "Inicio"
 
-#: src/routes/index.tsx:41
-msgctxt "another-context"
-msgid "Learn React"
-msgstr "Aprende React React"
-
-#: src/routes/index.tsx:33
+#: src/routes/index.tsx:36
 msgid "Learn React"
 msgstr "Aprende React"
 
-#: src/routes/index.tsx:49
+#: src/routes/index.tsx:41
+#~ msgctxt "another-context"
+#~ msgid "Learn React"
+#~ msgstr "Learn React"
+
+#: src/routes/index.tsx:44
 msgid "Learn TanStack"
 msgstr "Aprende TanStack"
 

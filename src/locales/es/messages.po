@@ -8,7 +8,7 @@ msgstr ""
 "Language: es\n"
 "Project-Id-Version: test-project-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-21 10:33\n"
+"PO-Revision-Date: 2025-07-21 10:37\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -52,6 +52,10 @@ msgid "One more paragraph with some text."
 msgstr "Un párrafo más con un texto."
 
 #: src/routes/index.tsx:31
-msgid "Text that should be translated"
-msgstr "Texto que debe traducirse"
+msgid "Text that 2 should be translated"
+msgstr ""
+
+#: src/routes/index.tsx:31
+#~ msgid "Text that should be translated"
+#~ msgstr "Text that should be translated"
 

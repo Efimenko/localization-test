@@ -25,9 +25,6 @@ function App() {
 					</Trans>
 				</p>
 				<p>
-					<Trans>Another paragraph with some text.</Trans>
-				</p>
-				<p>
 					<Trans>One more paragraph with some text.</Trans>
 				</p>
 				<a

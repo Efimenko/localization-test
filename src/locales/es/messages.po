@@ -8,7 +8,7 @@ msgstr ""
 "Language: es\n"
 "Project-Id-Version: test-project-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-21 09:35\n"
+"PO-Revision-Date: 2025-07-21 09:37\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: src/routes/index.tsx:28
 msgid "Another paragraph with some text."
-msgstr ""
+msgstr "Otro párrafo con algún texto."
 
 #: src/routes/index.tsx:23
 msgid "Edit <0>src/routes/index.tsx</0> and save to reload."

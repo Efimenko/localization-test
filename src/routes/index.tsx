@@ -28,7 +28,7 @@ function App() {
 					<Trans>One more paragraph with some text.</Trans>
 				</p>
 				<p>
-					<Trans>Text that should be translated</Trans>
+					<Trans>Text that 2 should be translated</Trans>
 				</p>
 				<a
 					className="text-[#61dafb] hover:underline"

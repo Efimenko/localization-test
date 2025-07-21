@@ -47,5 +47,9 @@ msgid "One more paragraph with some text."
 msgstr ""
 
 #: src/routes/index.tsx:31
-msgid "Text that should be translated"
+msgid "Text that 2 should be translated"
 msgstr ""
+
+#: src/routes/index.tsx:31
+#~ msgid "Text that should be translated"
+#~ msgstr ""

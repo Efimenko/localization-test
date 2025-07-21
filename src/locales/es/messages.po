@@ -13,6 +13,10 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
+#: src/routes/index.tsx:28
+msgid "Another paragraph with some text."
+msgstr ""
+
 #: src/routes/index.tsx:23
 msgid "Edit <0>src/routes/index.tsx</0> and save to reload."
 msgstr "Edita <0>src/routes/index.tsx</0> y guarda para recargar."
@@ -21,16 +25,16 @@ msgstr "Edita <0>src/routes/index.tsx</0> y guarda para recargar."
 msgid "Home"
 msgstr "Inicio"
 
+#: src/routes/index.tsx:36
+msgid "Learn React"
+msgstr ""
+
 #: src/routes/index.tsx:41
-msgctxt "another-context"
-msgid "Learn React"
-msgstr ""
+#~ msgctxt "another-context"
+#~ msgid "Learn React"
+#~ msgstr ""
 
-#: src/routes/index.tsx:33
-msgid "Learn React"
-msgstr ""
-
-#: src/routes/index.tsx:49
+#: src/routes/index.tsx:44
 msgid "Learn TanStack"
 msgstr "Aprende TanStack"
 

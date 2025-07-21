@@ -24,6 +24,9 @@ function App() {
 						Edit <code>src/routes/index.tsx</code> and save to reload.
 					</Trans>
 				</p>
+				<p>
+					<Trans>Another paragraph with some text.</Trans>
+				</p>
 				<a
 					className="text-[#61dafb] hover:underline"
 					href="https://reactjs.org"
@@ -31,14 +34,6 @@ function App() {
 					rel="noopener noreferrer"
 				>
 					<Trans>Learn React</Trans>
-				</a>
-				<a
-					className="text-[#61dafb] hover:underline"
-					href="https://reactjs.org"
-					target="_blank"
-					rel="noopener noreferrer"
-				>
-					<Trans context="another-context">Learn React</Trans>
 				</a>
 				<a
 					className="text-[#61dafb] hover:underline"

@@ -1,6 +1,5 @@
-import { useLocale } from "@/contexts/LocaleContext";
 import { t } from "@lingui/core/macro";
-import { Trans } from "@lingui/react/macro";
+import { Select, Trans } from "@lingui/react/macro";
 import { createFileRoute } from "@tanstack/react-router";
 import logo from "../logo.svg";
 
@@ -9,8 +8,10 @@ export const Route = createFileRoute("/")({
 });
 
 function App() {
-	const { locale } = useLocale();
-	console.log("Current locale:", locale);
+	const totalPrice = "$199";
+
+	const introductoryPricePeriod = "month";
+
 	return (
 		<div className="text-center">
 			<header className="min-h-screen flex flex-col items-center justify-center bg-[#282c34] text-white text-[calc(10px+2vmin)]">
@@ -26,6 +27,23 @@ function App() {
 				</p>
 				<p>
 					<Trans>Text that should be translated</Trans>
+				</p>
+				<p>
+					<Trans>
+						Invest with confidence. Keep reading with Premium. Now{" "}
+						<span className="font-bold text-orange-60">only {totalPrice}</span>{" "}
+						for your first{" "}
+						<Select
+							_day="day"
+							_halfYear="half year"
+							_month="30 days"
+							_quarter="quarter"
+							_week="week"
+							_year="year"
+							value={introductoryPricePeriod}
+						/>
+						.
+					</Trans>
 				</p>
 				<a
 					className="text-[#61dafb] hover:underline"

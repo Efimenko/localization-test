@@ -18,7 +18,7 @@ msgstr ""
 "X-Crowdin-File: /feature.map-222-translate/src/locales/en/messages.po\n"
 "X-Crowdin-File-ID: 19\n"
 
-#: src/routes/index.tsx:23
+#: src/routes/index.tsx:24
 msgid "Edit <0>src/routes/index.tsx</0> and save to reload."
 msgstr "파일 <0>src/routes/index.tsx</0>을 편집하고 저장하여 다시 로드하세요."
 
@@ -26,18 +26,22 @@ msgstr "파일 <0>src/routes/index.tsx</0>을 편집하고 저장하여 다시 �
 msgid "Home"
 msgstr "홈"
 
-#: src/routes/index.tsx:36
+#: src/routes/index.tsx:31
+msgid "Invest with confidence. Keep reading with Premium. Now <0>only {totalPrice}</0> for your first {introductoryPricePeriod, select, day {day} halfYear {half year} month {30 days} quarter {quarter} week {week} year {year}}."
+msgstr ""
+
+#: src/routes/index.tsx:52
 msgid "Learn React"
 msgstr "React 배우기"
 
-#: src/routes/index.tsx:44
+#: src/routes/index.tsx:60
 msgid "Learn TanStack"
 msgstr "TanStack 배우기"
 
-#: src/routes/index.tsx:20
+#: src/routes/index.tsx:21
 msgid "logo"
 msgstr "로고"
 
-#: src/routes/index.tsx:28
+#: src/routes/index.tsx:29
 msgid "Text that should be translated"
 msgstr "번역해야 하는 텍스트"

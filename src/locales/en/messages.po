@@ -13,7 +13,7 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: src/routes/index.tsx:23
+#: src/routes/index.tsx:24
 msgid "Edit <0>src/routes/index.tsx</0> and save to reload."
 msgstr "Edit <0>src/routes/index.tsx</0> and save to reload."
 
@@ -21,18 +21,22 @@ msgstr "Edit <0>src/routes/index.tsx</0> and save to reload."
 msgid "Home"
 msgstr "Home"
 
-#: src/routes/index.tsx:36
+#: src/routes/index.tsx:31
+msgid "Invest with confidence. Keep reading with Premium. Now <0>only {totalPrice}</0> for your first {introductoryPricePeriod, select, day {day} halfYear {half year} month {30 days} quarter {quarter} week {week} year {year}}."
+msgstr "Invest with confidence. Keep reading with Premium. Now <0>only {totalPrice}</0> for your first {introductoryPricePeriod, select, day {day} halfYear {half year} month {30 days} quarter {quarter} week {week} year {year}}."
+
+#: src/routes/index.tsx:52
 msgid "Learn React"
 msgstr "Learn React"
 
-#: src/routes/index.tsx:44
+#: src/routes/index.tsx:60
 msgid "Learn TanStack"
 msgstr "Learn TanStack"
 
-#: src/routes/index.tsx:20
+#: src/routes/index.tsx:21
 msgid "logo"
 msgstr "logo"
 
-#: src/routes/index.tsx:28
+#: src/routes/index.tsx:29
 msgid "Text that should be translated"
 msgstr "Text that should be translated"

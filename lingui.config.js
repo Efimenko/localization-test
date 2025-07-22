@@ -1,6 +1,6 @@
 /** @type {import('@lingui/conf').LinguiConfig} */
 export default {
-  locales: ['en', 'es'],
+  locales: ['en', 'es', 'ko'],
   sourceLocale: 'en',
   catalogs: [
     {

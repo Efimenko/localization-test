@@ -11,7 +11,7 @@
     "format": "biome format",
     "lint": "biome lint",
     "check": "biome check",
-    "extract": "lingui extract",
+    "extract": "lingui extract --clean",
     "compile": "lingui compile"
   },
   "dependencies": {

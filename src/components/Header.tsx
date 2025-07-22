@@ -1,4 +1,4 @@
-import { Trans } from "@lingui/macro";
+import { Trans } from "@lingui/react/macro";
 import { Link } from "@tanstack/react-router";
 import { useLocale } from "../contexts/LocaleContext";
 
@@ -28,6 +28,13 @@ export default function Header() {
 					className="px-2 py-1 bg-blue-500 text-white rounded hover:bg-blue-600"
 				>
 					ES
+				</button>
+				<button
+					type="button"
+					onClick={() => setLocale("ko")}
+					className="px-2 py-1 bg-blue-500 text-white rounded hover:bg-blue-600"
+				>
+					KO
 				</button>
 			</div>
 		</header>

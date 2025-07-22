@@ -8,7 +8,7 @@ msgstr ""
 "Language: ko\n"
 "Project-Id-Version: test-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-22 10:14\n"
+"PO-Revision-Date: 2025-07-22 10:19\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -40,5 +40,5 @@ msgstr "로고"
 
 #: src/routes/index.tsx:28
 msgid "Text that should be translated"
-msgstr ""
+msgstr "번역해야 하는 텍스트"
 

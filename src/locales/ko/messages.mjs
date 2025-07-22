@@ -1,1 +1,1 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"866v+d\":[\"파일 <0>src/routes/index.tsx</0>을 편집하고 저장하여 다시 로드하세요.\"],\"i0qMbr\":[\"홈\"],\"uVmnKK\":[\"React 배우기\"],\"aSYJCK\":[\"TanStack 배우기\"],\"z/ulfL\":[\"로고\"],\"+IeVAd\":[\"Text that should be translated\"]}");
+/*eslint-disable*/export const messages=JSON.parse("{\"866v+d\":[\"파일 <0>src/routes/index.tsx</0>을 편집하고 저장하여 다시 로드하세요.\"],\"i0qMbr\":[\"홈\"],\"uVmnKK\":[\"React 배우기\"],\"aSYJCK\":[\"TanStack 배우기\"],\"z/ulfL\":[\"로고\"],\"+IeVAd\":[\"번역해야 하는 텍스트\"]}");

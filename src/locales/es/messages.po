@@ -41,4 +41,3 @@ msgstr "logotipo"
 #: src/routes/index.tsx:28
 msgid "Text that should be translated"
 msgstr "Texto que debe traducirse"
-

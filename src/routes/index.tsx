@@ -30,6 +30,9 @@ function App() {
 				<p>
 					<Trans>Text that 2 should be translated</Trans>
 				</p>
+				<p>
+					<Trans>Some random text that should be translated</Trans>
+				</p>
 				<a
 					className="text-[#61dafb] hover:underline"
 					href="https://reactjs.org"

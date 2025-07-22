@@ -21,15 +21,15 @@ msgstr "Edit <0>src/routes/index.tsx</0> and save to reload."
 msgid "Home"
 msgstr "Home"
 
-#: src/routes/index.tsx:31
-msgid "Invest with confidence. Keep reading with Premium. Now <0>only {totalPrice}</0> for your first {introductoryPricePeriod, select, day {day} halfYear {half year} month {30 days} quarter {quarter} week {week} year {year}}."
-msgstr "Invest with confidence. Keep reading with Premium. Now <0>only {totalPrice}</0> for your first {introductoryPricePeriod, select, day {day} halfYear {half year} month {30 days} quarter {quarter} week {week} year {year}}."
+#: src/routes/index.tsx:32
+msgid "Invest with confidence. Keep reading with Premium. Now <0>only {totalPrice}</0> for your first {introductoryPricePeriod, select, day {day} halfYear {half year} month {30 days} quarter {quarter} week {week} year {year} other {}}."
+msgstr "Invest with confidence. Keep reading with Premium. Now <0>only {totalPrice}</0> for your first {introductoryPricePeriod, select, day {day} halfYear {half year} month {30 days} quarter {quarter} week {week} year {year} other {}}."
 
-#: src/routes/index.tsx:52
+#: src/routes/index.tsx:55
 msgid "Learn React"
 msgstr "Learn React"
 
-#: src/routes/index.tsx:60
+#: src/routes/index.tsx:63
 msgid "Learn TanStack"
 msgstr "Learn TanStack"
 

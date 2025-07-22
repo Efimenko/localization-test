@@ -40,6 +40,7 @@ function App() {
 							_quarter="quarter"
 							_week="week"
 							_year="year"
+							_other=""
 							value={introductoryPricePeriod}
 						/>
 						.

@@ -8,15 +8,15 @@ msgstr ""
 "Language: es\n"
 "Project-Id-Version: test-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-22 10:10\n"
+"PO-Revision-Date: 2025-07-22 10:19\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: test-for-samw\n"
 "X-Crowdin-Project-ID: 811448\n"
 "X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /main/src/locales/en/messages.po\n"
-"X-Crowdin-File-ID: 9\n"
+"X-Crowdin-File: /feature.map-222-translate/src/locales/en/messages.po\n"
+"X-Crowdin-File-ID: 19\n"
 
 #: src/routes/index.tsx:23
 msgid "Edit <0>src/routes/index.tsx</0> and save to reload."
@@ -26,11 +26,11 @@ msgstr "Edita <0>src/routes/index.tsx</0> y guarda para recargar."
 msgid "Home"
 msgstr "Inicio"
 
-#: src/routes/index.tsx:33
+#: src/routes/index.tsx:36
 msgid "Learn React"
 msgstr "Aprende React"
 
-#: src/routes/index.tsx:41
+#: src/routes/index.tsx:44
 msgid "Learn TanStack"
 msgstr "Aprende TanStack"
 
@@ -38,3 +38,6 @@ msgstr "Aprende TanStack"
 msgid "logo"
 msgstr "logotipo"
 
+#: src/routes/index.tsx:28
+msgid "Text that should be translated"
+msgstr "Texto que debe traducirse"

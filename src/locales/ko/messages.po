@@ -8,15 +8,15 @@ msgstr ""
 "Language: ko\n"
 "Project-Id-Version: test-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-22 10:06\n"
+"PO-Revision-Date: 2025-07-22 10:19\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: test-for-samw\n"
 "X-Crowdin-Project-ID: 811448\n"
 "X-Crowdin-Language: ko\n"
-"X-Crowdin-File: /main/src/locales/en/messages.po\n"
-"X-Crowdin-File-ID: 9\n"
+"X-Crowdin-File: /feature.map-222-translate/src/locales/en/messages.po\n"
+"X-Crowdin-File-ID: 19\n"
 
 #: src/routes/index.tsx:23
 msgid "Edit <0>src/routes/index.tsx</0> and save to reload."
@@ -26,11 +26,11 @@ msgstr "파일 <0>src/routes/index.tsx</0>을 편집하고 저장하여 다시 �
 msgid "Home"
 msgstr "홈"
 
-#: src/routes/index.tsx:33
+#: src/routes/index.tsx:36
 msgid "Learn React"
 msgstr "React 배우기"
 
-#: src/routes/index.tsx:41
+#: src/routes/index.tsx:44
 msgid "Learn TanStack"
 msgstr "TanStack 배우기"
 
@@ -38,3 +38,6 @@ msgstr "TanStack 배우기"
 msgid "logo"
 msgstr "로고"
 
+#: src/routes/index.tsx:28
+msgid "Text that should be translated"
+msgstr "번역해야 하는 텍스트"

@@ -24,6 +24,9 @@ function App() {
 						Edit <code>src/routes/index.tsx</code> and save to reload.
 					</Trans>
 				</p>
+				<p>
+					<Trans>Text that should be translated</Trans>
+				</p>
 				<a
 					className="text-[#61dafb] hover:underline"
 					href="https://reactjs.org"

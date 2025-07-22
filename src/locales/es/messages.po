@@ -26,11 +26,11 @@ msgstr "Edita <0>src/routes/index.tsx</0> y guarda para recargar."
 msgid "Home"
 msgstr "Inicio"
 
-#: src/routes/index.tsx:33
+#: src/routes/index.tsx:36
 msgid "Learn React"
 msgstr "Aprende React"
 
-#: src/routes/index.tsx:41
+#: src/routes/index.tsx:44
 msgid "Learn TanStack"
 msgstr "Aprende TanStack"
 
@@ -38,3 +38,6 @@ msgstr "Aprende TanStack"
 msgid "logo"
 msgstr "logotipo"
 
+#: src/routes/index.tsx:28
+msgid "Text that should be translated"
+msgstr ""

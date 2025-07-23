@@ -26,17 +26,21 @@ msgstr "파일 <0>src/routes/index.tsx</0>을 편집하고 저장하여 다시 �
 msgid "Home"
 msgstr "홈"
 
-#: src/routes/index.tsx:32
+#: src/routes/index.tsx:35
 msgid "Invest with confidence. Keep reading with Premium. Now <0>only {totalPrice}</0> for your first {introductoryPricePeriod, select, day {day} halfYear {half year} month {30 days} quarter {quarter} week {week} year {year} other {}}."
 msgstr "자신 있게 투자하세요. 프리미엄 구독하고 기사 계속 읽기. <0>첫 {introductoryPricePeriod, select, day {일} halfYear {6개월} month {30일} quarter {분기} week {주} year {년} other {}}</0> 동안 단 {totalPrice}에 이용하세요."
 
-#: src/routes/index.tsx:55
+#: src/routes/index.tsx:58
 msgid "Learn React"
 msgstr "React 배우기"
 
-#: src/routes/index.tsx:63
+#: src/routes/index.tsx:66
 msgid "Learn TanStack"
 msgstr "TanStack 배우기"
+
+#: src/routes/index.tsx:32
+msgid "Let's test it"
+msgstr ""
 
 #: src/routes/index.tsx:21
 msgid "logo"
@@ -45,4 +49,3 @@ msgstr "로고"
 #: src/routes/index.tsx:29
 msgid "Text that should be translated"
 msgstr "번역해야 하는 텍스트"
-

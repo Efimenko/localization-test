@@ -29,6 +29,9 @@ function App() {
 					<Trans>Text that should be translated</Trans>
 				</p>
 				<p>
+					<Trans>Let's test it</Trans>
+				</p>
+				<p>
 					<Trans>
 						Invest with confidence. Keep reading with Premium. Now{" "}
 						<span className="font-bold text-orange-60">only {totalPrice}</span>{" "}

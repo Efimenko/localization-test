@@ -8,15 +8,15 @@ msgstr ""
 "Language: ko\n"
 "Project-Id-Version: test-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-22 10:19\n"
+"PO-Revision-Date: 2025-07-29 09:46\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: test-for-samw\n"
 "X-Crowdin-Project-ID: 811448\n"
 "X-Crowdin-Language: ko\n"
-"X-Crowdin-File: /feature.map-222-translate/src/locales/en/messages.po\n"
-"X-Crowdin-File-ID: 19\n"
+"X-Crowdin-File: /main/src/locales/en/messages.po\n"
+"X-Crowdin-File-ID: 29\n"
 
 #: src/routes/index.tsx:33
 msgid "Edit <0>src/routes/index.tsx</0> and save to reload."
@@ -33,7 +33,7 @@ msgstr ""
 
 #: src/routes/index.tsx:42
 msgid "Invest with confidence. Keep reading with Premium. Now <0>only {totalPrice}</0> for your first {introductoryPricePeriod, select, day {day} halfYear {half year} month {30 days} quarter {quarter} week {week} year {year} other {}}."
-msgstr ""
+msgstr "자신 있게 투자하세요. 프리미엄 구독하고 기사 계속 읽기. <0>첫 {introductoryPricePeriod, select, day {일} halfYear {6개월} month {30일} quarter {분기} week {주} year {년} other {}}</0> 동안 단 {totalPrice}에 이용하세요."
 
 #: src/routes/index.tsx:105
 msgid "Learn React"
@@ -50,3 +50,4 @@ msgstr "로고"
 #: src/routes/index.tsx:38
 msgid "Text that should be translated"
 msgstr "번역해야 하는 텍스트"
+

@@ -8,7 +8,7 @@ msgstr ""
 "Language: es\n"
 "Project-Id-Version: test-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-29 09:46\n"
+"PO-Revision-Date: 2025-07-29 12:31\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -18,7 +18,7 @@ msgstr ""
 "X-Crowdin-File: /main/src/locales/en/messages.po\n"
 "X-Crowdin-File-ID: 29\n"
 
-#: src/routes/index.tsx:24
+#: src/routes/index.tsx:33
 msgid "Edit <0>src/routes/index.tsx</0> and save to reload."
 msgstr "Edita <0>src/routes/index.tsx</0> y guarda para recargar."
 
@@ -26,23 +26,28 @@ msgstr "Edita <0>src/routes/index.tsx</0> y guarda para recargar."
 msgid "Home"
 msgstr "Inicio"
 
-#: src/routes/index.tsx:32
+#. premium terms and conditions: no trial, annual or three-year
+#: src/routes/index.tsx:63
+msgid "I acknowledge my {paymentMethodType, select, cc {credit card} pp {PayPal account} other {}} will be charged {priceFormatted} immediately for {billingPeriod, select, annual {an annual} three_year {a three-year} other {}} subscription to Premium. I further acknowledge that my subscription will auto-renew as {billingPeriod, select, annual {an annual} three_year {a three-year} other {}} subscription at the then current {billingPeriod, select, annual {annual list price} three_year {list price for a three-year subscription} other {}} (current list price is {basePriceFormatted}{billingPeriod, select, annual {/year} other {}}) until I cancel. Plus sales tax/VAT, where applicable. See more information regarding cancellations <0>here</0>."
+msgstr ""
+
+#: src/routes/index.tsx:42
 msgid "Invest with confidence. Keep reading with Premium. Now <0>only {totalPrice}</0> for your first {introductoryPricePeriod, select, day {day} halfYear {half year} month {30 days} quarter {quarter} week {week} year {year} other {}}."
 msgstr ""
 
-#: src/routes/index.tsx:55
+#: src/routes/index.tsx:105
 msgid "Learn React"
 msgstr "Aprende React"
 
-#: src/routes/index.tsx:63
+#: src/routes/index.tsx:113
 msgid "Learn TanStack"
 msgstr "Aprende TanStack"
 
-#: src/routes/index.tsx:21
+#: src/routes/index.tsx:30
 msgid "logo"
 msgstr "logotipo"
 
-#: src/routes/index.tsx:29
+#: src/routes/index.tsx:38
 msgid "Text that should be translated"
 msgstr "Texto que debe traducirse"
 

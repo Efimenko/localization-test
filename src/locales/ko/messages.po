@@ -8,15 +8,15 @@ msgstr ""
 "Language: ko\n"
 "Project-Id-Version: test-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-29 09:46\n"
+"PO-Revision-Date: 2025-07-29 10:01\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: test-for-samw\n"
 "X-Crowdin-Project-ID: 811448\n"
 "X-Crowdin-Language: ko\n"
-"X-Crowdin-File: /main/src/locales/en/messages.po\n"
-"X-Crowdin-File-ID: 29\n"
+"X-Crowdin-File: /feature.map-000-translate/src/locales/en/messages.po\n"
+"X-Crowdin-File-ID: 39\n"
 
 #: src/routes/index.tsx:33
 msgid "Edit <0>src/routes/index.tsx</0> and save to reload."
@@ -29,7 +29,7 @@ msgstr "홈"
 #. premium terms and conditions: no trial, annual or three-year
 #: src/routes/index.tsx:63
 msgid "I acknowledge my {paymentMethodType, select, cc {credit card} pp {PayPal account} other {}} will be charged {priceFormatted} immediately for {billingPeriod, select, annual {an annual} three_year {a three-year} other {}} subscription to Premium. I further acknowledge that my subscription will auto-renew as {billingPeriod, select, annual {an annual} three_year {a three-year} other {}} subscription at the then current {billingPeriod, select, annual {annual list price} three_year {list price for a three-year subscription} other {}} (current list price is {basePriceFormatted}{billingPeriod, select, annual {/year} other {}}) until I cancel. Plus sales tax/VAT, where applicable. See more information regarding cancellations <0>here</0>."
-msgstr ""
+msgstr "저는 {paymentMethodType, select, cc {신용카드} pp {PayPal 계정} other {}}로 {billingPeriod, select, annual {연간} three_year {3년} other {}} Premium 구독에 대해 {priceFormatted}가 즉시 청구됨을 확인합니다. 또한, 제 구독이 취소 전까지 {billingPeriod, select, annual {연간} three_year {3년} other {}} 구독으로 현재 {billingPeriod, select, annual {연간 정가} three_year {3년 구독 정가} other {}}(현재 정가는 {basePriceFormatted}{billingPeriod, select, annual {/년} other {}})로 자동 갱신됨을 확인합니다. 해당되는 경우 부가세/부가가치세가 추가됩니다. 취소에 대한 자세한 정보는 <0>여기</0>에서 확인하세요."
 
 #: src/routes/index.tsx:42
 msgid "Invest with confidence. Keep reading with Premium. Now <0>only {totalPrice}</0> for your first {introductoryPricePeriod, select, day {day} halfYear {half year} month {30 days} quarter {quarter} week {week} year {year} other {}}."

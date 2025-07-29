@@ -8,15 +8,15 @@ msgstr ""
 "Language: es\n"
 "Project-Id-Version: test-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-29 09:49\n"
+"PO-Revision-Date: 2025-07-29 14:15\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: test-for-samw\n"
 "X-Crowdin-Project-ID: 811448\n"
 "X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /feature.map-000-translate/src/locales/en/messages.po\n"
-"X-Crowdin-File-ID: 39\n"
+"X-Crowdin-File: /feature.map-999-translate/src/locales/en/messages.po\n"
+"X-Crowdin-File-ID: 49\n"
 
 #: src/routes/index.tsx:33
 msgid "Edit <0>src/routes/index.tsx</0> and save to reload."
@@ -54,3 +54,4 @@ msgstr ""
 #: src/routes/index.tsx:38
 msgid "Text that should be translated"
 msgstr "Texto que debe traducirse"
+

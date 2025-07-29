@@ -8,7 +8,7 @@ msgstr ""
 "Language: ko\n"
 "Project-Id-Version: test-for-samw\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-07-29 14:15\n"
+"PO-Revision-Date: 2025-07-29 14:17\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -49,7 +49,7 @@ msgstr "로고"
 
 #: src/routes/index.tsx:41
 msgid "Random English text goes here for demonstration purposes."
-msgstr ""
+msgstr "데모용으로 임의의 영어 텍스트가 여기에 표시됩니다."
 
 #: src/routes/index.tsx:38
 msgid "Text that should be translated"

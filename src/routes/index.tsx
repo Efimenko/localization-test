@@ -37,6 +37,11 @@ function App() {
 					<p>
 						<Trans>Text that should be translated</Trans>
 					</p>
+					<p>
+						<Trans>
+							Random English text goes here for demonstration purposes.
+						</Trans>
+					</p>
 					<br />
 					<p>
 						<Trans>
